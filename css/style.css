@@ -1028,13 +1028,11 @@ p.p-apply{
   float: left;
 }
 .form-right{
-  max-width: 830px;
-  width: 100%;
+  width: 50%;
   background-color: #095279;
   border: 1px solid #000000;
   border-radius: 106px;
   padding: 76px 32px 38px 36px;
-  width: 100%;
   float: left;
 }
 .form-right input{
@@ -1443,7 +1441,7 @@ p.p-apply{
     width: 100%;
   }
   .form-right{
-    max-width: 600px;
+    width: 50%;
   }
   .form-right input,.form-right textarea{
     margin-bottom: 30px;
